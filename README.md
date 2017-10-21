@@ -8,6 +8,10 @@
 KDD 2016. 
 [paper](http://www.kdd.org/kdd2016/subtopic/view/robust-extreme-multi-label-learning)
 
+  - to make low rank assumption valid, handle tail labels as outliers (different treatment of tail labels and non-tail ones)
+  - scalalability achieved by divide and conquer
+  - performance advantage not very obvious over `SLEEC`
+
 1. *Himanshu Jain, Yashoteja Prabhu, ; Manik Varma,*
 **Extreme Multi-label Loss Functions for Recommendation, Tagging, Ranking & Other Missing Label Application**
 KDD 2016, 
