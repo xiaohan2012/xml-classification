@@ -12,4 +12,3 @@ KDD 2016.
 **Extreme Multi-label Loss Functions for Recommendation, Tagging, Ranking & Other Missing Label Application**
 KDD 2016, 
 [paper](http://www.kdd.org/kdd2016/subtopic/view/extreme-multi-label-loss-functions-for-recommendation-tagging-ranking-other)
-
